@@ -1,5 +1,6 @@
 # mini-blog
 everyday highlights as a clg student learning coding
+
 # daily highlights
 ## 16 aug 25
  highlight: made smth for hackathon till 3 am
