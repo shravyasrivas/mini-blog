@@ -7,7 +7,7 @@ everyday highlights as a clg student learning coding
 ## 17 aug 25
  highlight: ate ice cream,burger, met a friend after really long
 ## 18th aug 25
- highlight:
+ highlight: went on a run
 ## 19th aug 25
  highlight:
 ## 20th aug 25
